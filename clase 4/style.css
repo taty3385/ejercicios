@@ -1,0 +1,34 @@
+/* electores de etiquetas
+ esl a forma en la cual llamamos a las etiquetas , por su nombre de etiqutas, para modificar estilo */
+
+/* todas las etiquetas sean x van a tener estas personalizaciones */
+
+body{
+    /*  prevale siempre el ultimo  cambio */
+    background-color: violet;
+    background-color: brown;
+}
+
+
+h1{
+    color :white;
+    background-color: red;
+}
+
+p{
+    color: aqua;
+}
+/* selectores de clase */
+
+.parrafo-color{
+    color: blue;
+}
+
+/* selector  de identificacion */
+#parrafo-principal {
+    color :red;
+}
+
+
+
+

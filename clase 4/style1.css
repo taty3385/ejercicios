@@ -1,0 +1,35 @@
+lo.container{
+    background-color: beige;
+}
+body{
+    margin: 0;
+     font-family: 'Montserrat', sans-serif;
+}
+
+#subtitulo-contacto{
+    color:blueviolet;
+}
+
+r .subtitulo-mediano {
+    font-size: 18px;
+    color: blue;
+}
+
+.pie-de-pagina{
+    background-color:salmon ;
+}
+/* color rgb */
+.subtitulo-footer{
+     background-color: rgb(127, 219, 127);
+}
+ul{
+    background-color: brown;
+}
+/* color hsl */
+li{
+    background-color: hsl(160, 100%, 75%);
+}
+/* color hexadecimal */
+h1{
+    color: #F06292;
+}

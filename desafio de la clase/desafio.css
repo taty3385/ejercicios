@@ -1,0 +1,43 @@
+section{
+    border: 2px black dotted;
+    padding: 5px;
+
+}
+
+article{
+    width: 650px;
+    height: 210px;
+    background-color: rgb(222,184,135);
+    margin: 3px auto ;
+
+}
+
+.cuadrado {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(94,158,160);
+    margin-top: 5px;
+    margin-left: 15px;
+    box-shadow: 21px 10px 16px -19px rgba(0,0,0,0.75)
+
+}
+
+.redondo{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(255,127,80);
+    border-radius: 101px;
+    margin-right: 5px;
+    margin-left: 5px;
+    box-shadow: 21px 10px 16px -19px rgba(0,0,0,0.75)
+}
+
+.cuadrado2{
+    display: inline-block;
+    width: 200px;
+    height: 200px; 
+    background-color: rgb(211,105,31);
+    box-shadow: 21px 10px 16px -19px rgba(0,0,0,0.75)
+}

@@ -1,0 +1,49 @@
+body{
+    margin: 0px;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.card{
+display: flex;
+height: 500px;
+width: 1000px;
+background-color: black;
+}
+.contenedor-imagen{
+    box-sizing: border-box;
+   height: 500px;
+    margin: 0px;
+    padding: 40px;
+}
+
+
+.contenedor-principal{
+    box-sizing: border-box;
+    display: flex;
+   color: white;
+   flex-direction: column;
+   
+}
+
+.titulo{
+    text-align: center;
+}
+.descripcion{
+    flex-grow: 1;
+    height: 100%;
+    text-align: center;
+    font-size: 25px;
+    line-height: normal;
+    padding-top: 20px;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+}
+.año , .genero{
+    font-size: 17px;
+}

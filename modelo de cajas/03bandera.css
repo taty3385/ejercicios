@@ -1,0 +1,79 @@
+.bandera{
+    width: 300px;
+    height: 200px;
+    border: 2px solid gray;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+.celeste{
+    width: 300px;
+    height: 66px;
+    background-color: rgb(112,167,216);
+}
+
+.blanco{
+    width: 300px;
+    height: 68px;
+    background-color: white;
+}
+
+.azul{
+    width: 300px;
+    height: 66px;
+    background-color: blue;
+}
+
+.rojo{
+    width: 300px;
+    height: 67px;
+    background-color: red;
+}
+
+.amarillo{
+    width: 300px;
+    height: 66px; 
+    background-color: yellow;
+
+}
+
+
+.verde{
+    display: inline-block;
+    width: 96px;
+    height: 200px;
+    background-color:green;
+}
+.blanco2{
+    display: inline-block;
+    width: 95px;
+    height: 200px;
+    background-color:white;
+}
+.rojo2{
+    display: inline-block;
+    width: 100px;
+    height: 200px;
+    background-color:red; 
+}
+.azul1{
+    
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+   
+   
+}
+
+
+.rojo3{
+    width:300px;
+    height: 100px ;
+    background-color: red;
+  
+}
+div{
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-weight: bold;
+}

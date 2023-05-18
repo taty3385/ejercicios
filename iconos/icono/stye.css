@@ -1,0 +1,19 @@
+.stilo{
+    color: pink;
+    font-size: 30px;
+    background-color: brown;
+    border-radius: 90%;
+    padding: 3px;
+}
+ul{
+    margin: 0px;
+}
+li{
+    list-style: none;
+    
+}
+li::marker{
+    font-size: 20px;
+    color: brown;
+    fill: currentColor
+}

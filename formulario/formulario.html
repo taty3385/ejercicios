@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- formulario de texto  -->
+    <form id="formulario-de texto">
+    <label for="nombre-de-usuario"> Nombre:</label>
+     <input type="text " id="nombre-de-usuario" placeholder="Ingrese numero de usuario">
+     <label for="apellido "> apellido</label>
+     <input type="text" id="apellido " placeholder="ingrese su apellido">
+     <!-- boton -->
+     <label id="boton">
+        <input id="boton" type="submit"> 
+     </label>
+    </form>
+
+    <!-- fotmulario de pasword -->
+    <form id=" formulario-pasword">
+        <label for="email">
+            email:
+            <input type="email" placeholder="ingrese su email">
+        </label>
+        <label for="contraseña">
+            contraseña:
+            <input type="password" placeholder="ingrese contraseña">
+        </label>
+        <label id="boton">
+            <input id="bonton" type="submit">
+        </label>
+    </form> 
+    <!-- formulario  checkboox/ radio-->
+    <!-- <form id="formulario-checkboox">
+        <label id="checkboox">
+            <input type="checkbox" name="paises" value="argentina">
+        </label>
+    </form> -->
+    <form>
+        Acepta términos y condiciones:
+        <input type="radio" name="terminos" value="1" /> Si
+        <input type="radio" name="terminos" value="2" checked="checked" /> No
+      </form>
+
+      <form>
+        Estado Civil:
+        <input type="checkbox" name="superheroe" value="batman" checked="checked" /> Batman
+        <input type="checkbox" name="superheroe" value="superman" checked="checked" /> Superman
+        <input type="checkbox" name="superheroe" value="flash" checked="checked" /> Flash
+        <input type="checkbox" name="superheroe" value="mujer maravilla"  /> Mujer Maravilla
+      </form>
+
+      <form id="paises">
+        <label >
+            <input type="checkbox" value=" pregunta" checked="checked">vivis en un pais
+        </label>
+      </form>
+
+      <form>
+        <fieldset>
+          <label for="idnombre">Nombre:</label>
+          <input type="text" name="nombre" id="idnombre" />
+          <label for="idapellido">Apellido:</label>
+          <input type="text" name="apellido" id="idapellido" />
+        </fieldset>
+      </form>
+
+</body>
+</html>

@@ -1,0 +1,54 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+    background-color: black;
+    border-top: 2px solid gray;
+}
+
+.navigation-list {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.fa-solid {
+    font-size: 25px;
+    color: white;
+}
+
+.encabezado-tweet {
+    background-color: black;
+    display: flex;
+}
+
+h3 {
+    color: white;
+}
+
+span {
+
+    display: flex;
+    align-items: center;
+    padding: 0PX 40PX 0PX 40PX;
+    background-color: black;
+}
+
+.fa-arrow-left {
+    font-size: 18px;
+}

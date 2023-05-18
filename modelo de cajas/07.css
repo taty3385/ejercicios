@@ -1,0 +1,85 @@
+body{
+    background-color:rgb(231,233,242)  ;
+}
+
+.imagen{
+text-align: center;
+}
+
+img{
+    
+    height:  100px;
+    width: 100px;
+    margin: auto;
+  
+}
+.box-contenedor{
+    width: 400px;
+    height: 500px;
+    border: solid  1px  rgb(255,255,255) ;
+  margin: auto;
+  background-color: rgb(255,255,255);
+  border-radius: 20px;
+  box-shadow: 3px 2px 5px 4px rgba(204,204,204,1);
+}
+.title{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+   margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.contenido{
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 5px;
+   
+}
+
+.dos{
+    font-weight: bold;
+}
+.box{
+    background-color:rgb(231,233,242) ;
+   padding: 3px;
+   width:300px;
+   margin: auto;
+   border-radius: 5px;
+}
+.email{
+    text-align: center;
+    margin: auto;
+}
+.primero{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.boton{
+    width: 100px;
+    height: 20px;
+    border: 1px solid rgb(255,255,255);
+    margin: auto;
+    border-radius: 6px;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 15px;
+    background-color: rgb(255,255,255);
+    padding: 5px;
+    box-shadow: -1px 2px 5px 1px rgba(204,204,204,1);
+
+}
+.azul{
+    background-color: rgb(36,46,76);
+   
+}
+.color{
+    color: white;
+        
+    
+}
+

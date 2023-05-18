@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(165,214,167);
+    font-family: sans-serif;
+}
+
+.Caja{
+    width: 300px;
+    height: 353px;
+    background-color: rgb(247,247,252) ; 
+    margin: auto;
+    margin-top: 10%;
+    border-radius: 5%;
+    box-shadow: 10px 10px 14px -6px rgba(0,0,0,0.75);
+    padding-top: 3%;
+  
+}
+
+.titulo{
+    text-align: center;
+    margin: 1px;
+    font-weight: 300px;
+   
+
+}
+
+.encabezado{
+width: 70%;
+  text-align: center;
+  margin-top: 10%;
+  margin-left: 15%;
+  color:gray ;
+}
+
+
+article{
+    margin-top: 7%;
+}
+div{
+    width: 150px;
+    text-align: center;
+    margin: 7px;
+    margin-left: 25%;
+    padding: 5px;
+    border-radius: 10px;
+    background-color:rgb(255,255,255) ; 
+    box-shadow: 10px 10px 5px -8px rgba(173,173,173,1)
+    }   

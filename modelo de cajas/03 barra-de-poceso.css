@@ -1,0 +1,53 @@
+.barra{
+    width: 500px;
+    height: 30px;
+    background-color: rgb(234,234,234);
+    margin: 10px;
+    padding: 3px;
+    border-radius: 20px;
+}
+
+.progreso1{
+    width: 10%;
+    height: 30px;
+    background-color: rgb(76,175,80) ;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.progreso2{
+    width: 25%;
+    height: 30px;
+    background-color: rgb(76,175,80) ;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+    
+
+}
+.progreso3{
+    width: 50%;
+    height: 30px;
+    background-color: rgb(76,175,80) ;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.progreso4{
+    width: 75%;
+    height: 30px;
+    background-color: rgb(76,175,80) ;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.progreso5{
+    width: 90%;
+    height: 30px;
+    background-color: rgb(76,175,80) ;
+    border-radius: 20px;
+    text-align: center;
+    font-weight: bold;
+}

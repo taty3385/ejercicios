@@ -1,0 +1,23 @@
+body{
+    background-color: #212121;
+    color: white;
+}
+.titulo-principal{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120px;
+    font-weight: 800;
+}
+.parrafo{
+    font-size: 48px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+
+.Rojo{
+    color: palevioletred;
+}
+
+.Verde{
+    color: lightcoral;
+}

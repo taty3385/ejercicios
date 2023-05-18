@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo-principal{
+    color: palevioletred;
+}
+
+.deberes{
+    color: gray;
+    font-size: 20px;
+}
+
+.azul{
+    color: blue;
+}
+
+.rojo{
+    color: red;
+}
+
+.verde{
+    color: green;
+}
+
+.naranja{
+    color: orange;
+}
+
+

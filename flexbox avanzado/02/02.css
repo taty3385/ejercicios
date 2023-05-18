@@ -1,0 +1,41 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+div{
+    
+    height: 30px;
+    margin: 5px;
+   
+}
+.box1 ,.box2 ,.box3 , .box4 {
+background-color: aqua;
+flex-basis: 25%;
+}
+.box5{
+    flex-grow: 3;
+    background-color: black;
+}
+
+.box6 ,.box7 ,.box8 ,.box9 ,.box10 ,.box11{
+    background-color: palevioletred;
+    flex-basis: 25%;
+}
+
+.box11{
+    flex-grow: 3;
+}
+.box12 ,.box13 ,.box14 ,.box15  {
+    background-color: plum;
+    flex-basis: 25%;
+
+}
+
+ .box16 , .box17{
+    width: 549px ;
+    background-color: blanchedalmond;
+ }
+
+
+

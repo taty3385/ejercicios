@@ -1,0 +1,22 @@
+.titulo-principal{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+}
+
+.subtitulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.fecha{
+    color: gray;
+    font-size: 15px;
+}
+
+.ingresos{
+    color: green;
+}
+
+.salida{
+    color:red
+}
